@@ -1041,3 +1041,26 @@ final List DUMMY_MEALS = [
     videoUrl: 'https://youtu.be/YAX17L6IUu4',
   ),
 ];
+
+final List<String> DUMMY_PROJECTIMPLEMENZTERS = [
+  'Manar Mohamed Abdelazeem El Sherif',
+  'Manar Mohamed Mohamed Eldnoshry',
+  'Manar Nabil Eldsouky Mohamed Eldghedy',
+  'Menna Allah Ayman Fathy Ebrahim Elsaygh',
+  'Menna Allah Ibrahim Elsayed Mohamed Otb',
+  'Menna Allah Ahmed Soliman Mohamed Matr',
+  'Menna Allah Ashraf Ahmed Alshamy',
+  'Menna Allah Tarek Kassab Elsayed Abdullah',
+  'Menna Allah Eid Abdeldayem Eid Hathout',
+  'Mona Basyouni Said Othman Elmansy',
+  'Mona Asem Abdelhaleem Abdellatif',
+  'Mona Ezz Elregal Ibrahim Ezz Elregal',
+  'Maha Mohamed Saeed Mohamed Elhamoly',
+  'Mawadda Yosry Farouk Elsndiony',
+  'Mo’men Seif El Din Mohamed Talaat Balbaa',
+  'Mo’men Mahmoud Fayed El Desouky',
+  'Mai Ibrahim Elsaeed Abdelfattah',
+  'Mai Ibrahim Zain Elabdeen Elwaty',
+  'Mai Elsayed Ibrahim Abdellatif',
+  'Mai Elsayed Mostafa Elwezza',
+];
