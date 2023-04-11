@@ -45,6 +45,7 @@ class _MealDetailScreenState extends State<MealDetailScreen> {
 
     openVideo() async{
       final url =  selectedMeal.videoUrl;
+      print("url: ${url}");
       if (await canLaunch(url)) {
         await launch(url);
       } else {
